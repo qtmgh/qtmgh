@@ -18,15 +18,17 @@
   <img src="https://img.shields.io/badge/SQL-000?&logo=MySQL&logoColor=4479A1&style=for-the-badge" title="SQL" style="zoom: 120%;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" style="zoom: 120%;">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" title="C++" style="zoom: 120%;">
-  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" title="Google_Firebase" style="zoom: 120%;">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" style="zoom: 120%;">
-  <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" title="Wireshark" style="zoom: 120%;">
 </p>
 
 
 
 ### **Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" title="React" style="zoom: 120%;">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" title="Google_Firebase" style="zoom: 120%;">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" style="zoom: 120%;">
+  <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" title="Wireshark" style="zoom: 120%;">
+</p>
 
 ### **Tools & Technologies:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
