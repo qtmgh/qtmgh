@@ -1,8 +1,8 @@
 ![Banner](https://pbs.twimg.com/media/EHGcIOkUYAA4rFB.jpg:large) <!-- Add a banner image here -->
 
 ## **About Me**
-- 🌱 I’m currently learning **Data Engineering and Architecture**.
-- 👯 I’m looking to collaborate on **working on Data Pipelines (API, ETL), Data Dashboards**.
+- 🌱 Currently learning **Data Engineering and Architecture**.
+- 👯 Looking to collaborate on **working on Data Pipelines (API, ETL), Data Dashboards**.
 - 💬 Ask me about **Machine Learning, Databases, Principles of Software Engineering**.
 - 😄 Pronouns: **He/Him**.
 - ⚡ Fun fact: **I'm an aspiring Marvel Rivals Eternity Player**.
