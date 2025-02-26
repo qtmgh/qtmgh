@@ -2,10 +2,6 @@
 
 ![Banner](https://pbs.twimg.com/media/EHGcIOkUYAA4rFB.jpg:large) <!-- Add a banner image here -->
 
-I'm a Computer Science Graduate from California State University, Fullerton passionate about basketball, gaming, and coding to solve real-world problems. I love working with languages such as Python, SQL, HTML, Swift, C++ and always strive to learn something new.
-
----
-
 ## **About Me**
 - 🌱 I’m currently learning **Data Engineering and Architecture**.
 - 👯 I’m looking to collaborate on **working on Data Pipelines (API, ETL), Data Dashboards**.
