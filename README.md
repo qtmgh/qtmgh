@@ -18,12 +18,12 @@ I'm a Computer Science Graduate from California State University, Fullerton pass
 ## **Skills**
 ### **Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="120" height="30" title="Python">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="120" height="30" title="CSS3">
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white" width="120" height="30" title="Swift">
-  <img src="https://img.shields.io/badge/SQL-000?&logo=MySQL&logoColor=4479A1" width="120" height="30" title="SQL">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="120" height="30" title="HTML5">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="120" height="30" title="C++">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" width="60" height="30" title="Python">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="60" height="30" title="CSS3">
+  <img src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white" width="60" height="30" title="Swift">
+  <img src="https://img.shields.io/badge/SQL-000?&logo=MySQL&logoColor=4479A1" width="60" height="30" title="SQL">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="60" height="30" title="HTML5">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" width="60" height="30" title="C++">
 </p>
 
 
