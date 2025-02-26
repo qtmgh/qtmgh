@@ -1,5 +1,3 @@
-# Hi there, I'm Miguel!
-
 ![Banner](https://pbs.twimg.com/media/EHGcIOkUYAA4rFB.jpg:large) <!-- Add a banner image here -->
 
 ## **About Me**
