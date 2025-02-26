@@ -50,6 +50,10 @@
 - This project is a browser extension that uses machine learning to detect phishing websites. It is a free and open-source project that aims to protect users from phishing attacks. The extension currently only supports Google Chrome, but we are working on adding support for other browsers.
 - Technologies used: Python, Javascript, CSS, HTML
 
+### **[To Do List](https://github.com/qtmgh/To-Do-List-)**
+- This application serves as a dynamic task management system, allowing users to efficiently create, modify, and manage a list of tasks. The interface provides an intuitive menu with options to add, edit, and delete tasks, ensuring seamless organization and real-time updates.
+- Technologies used: CSS. Javascript, Python
+
 ---
 
 ## **GitHub Stats**
