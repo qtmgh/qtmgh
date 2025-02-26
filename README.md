@@ -28,6 +28,8 @@
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" title="Google_Firebase" style="zoom: 120%;">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" style="zoom: 120%;">
   <img src="https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white" title="Wireshark" style="zoom: 120%;">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" title="Pandas" style="zoom: 120%;">
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" title="Numpy" style="zoom: 120%;">
 </p>
 
 ### **Tools & Technologies:**
