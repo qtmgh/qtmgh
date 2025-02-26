@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi there, I'm Miguel!
 
-<!--
-**qtmgh/qtmgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://pbs.twimg.com/media/EHGcIOkUYAA4rFB.jpg:large) <!-- Add a banner image here -->
 
-Here are some ideas to get you started:
+I'm a Computer Science Graduate from California State University, Fullerton passionate about basketball, gaming, and coding to solve real-world problems. I love working with languages such as Python, SQL, HTML, Swift, C++ and always strive to learn something new.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## **About Me**
+- 🌱 I’m currently learning **Data Engineering and Architecture**.
+- 👯 I’m looking to collaborate on **working on Data Pipelines (API, ETL), Data Dashboards**.
+- 💬 Ask me about **Machine Learning, Databases, Principles of Software Engineering**.
+- 😄 Pronouns: **He/Him**.
+- ⚡ Fun fact: **I'm an aspiring Marvel Rivals Eternity Player**.
+
+---
+
+## **Skills**
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![HTML](https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
+
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## **Projects**
+### **[FTP/Client Server](https://github.com/qtmgh/FTPServerClient)**
+- This project implements an FTP (File Transfer Protocol) server and an associated FTP client. The FTP server is designed to handle client connections and manage file transfers efficiently, supporting both file uploads and downloads. The FTP client interacts with the server, providing users with an interface to upload and retrieve files.
+- Technologies used: Python, Javascript
+
+### **[Phishsentry.AI](https://github.com/SimonLariz/PhishSentry.AI)**
+- This project is a browser extension that uses machine learning to detect phishing websites. It is a free and open-source project that aims to protect users from phishing attacks. The extension currently only supports Google Chrome, but we are working on adding support for other browsers.
+- Technologies used: Python, Javascript, CSS, HTML
+
+---
+
+## **GitHub Stats**
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=qtmgh&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtmghe&layout=compact&theme=radical)
+
+
+## **Visitor Count**
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=qtmgh.qtmgh)
