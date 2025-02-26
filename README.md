@@ -16,7 +16,7 @@ I'm a Computer Science Graduate from California State University, Fullerton pass
 ---
 
 ## **Skills**
-### **Languages**
+### **Languages:**
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" style="zoom: 120%;">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" style="zoom: 120%;">
@@ -28,10 +28,10 @@ I'm a Computer Science Graduate from California State University, Fullerton pass
 
 
 
-### **Frameworks & Libraries**
+### **Frameworks & Libraries:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### **Tools & Technologies**
+### **Tools & Technologies:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
