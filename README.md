@@ -46,7 +46,3 @@ I'm a Computer Science Graduate from California State University, Fullerton pass
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=qtmgh&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtmgh&layout=compact&theme=radical)
-
-
-## **Visitor Count**
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=qtmgh.qtmgh)
