@@ -17,7 +17,7 @@ I'm a Computer Science Graduate from California State University, Fullerton pass
 
 ## **Skills**
 ### **Languages**
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" style="zoom: 120%;">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" title="CSS3" style="zoom: 120%;">
   <img src="https://img.shields.io/badge/Swift-F05138?logo=Swift&logoColor=white&style=for-the-badge" title="Swift" style="zoom: 120%;">
