@@ -57,6 +57,6 @@
 ---
 
 ## **GitHub Stats**
-![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=qtmgh&theme=cobalt&hide_border=false))
+![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=qtmgh&theme=cobalt&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtmgh&theme=cobalt&show_icons=true&hide_border=false&layout=compact))
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtmgh&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
