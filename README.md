@@ -1,7 +1,7 @@
 ![Banner](https://pbs.twimg.com/media/EHGcIOkUYAA4rFB.jpg:large) <!-- Add a banner image here -->
 
 ## **About Me**
-- 🌱 Currently learning **Data Engineering and Architecture**.
+- 🌱 Currently learning **Linux Operating System and Networking**.
 - 👯 Looking to collaborate on **working on Data Pipelines (API, ETL), Data Dashboards**.
 - 💬 Ask me about **Machine Learning, Databases, Principles of Software Engineering**.
 - 😄 Pronouns: **He/Him**.
