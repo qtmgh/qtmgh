@@ -5,7 +5,7 @@
 - 👯 Looking to collaborate on **OSI Troubleshooting, Packet Analysis**.
 - 💬 Ask me about **Machine Learning, Databases, Principles of Software Engineering**.
 - 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **I like playing Marvel Contest of Champions!**.
+- ⚡ Fun fact: **I like playing Marvel Contest of Champions**.
 
 ---
 
