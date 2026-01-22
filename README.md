@@ -1,11 +1,11 @@
 ![Banner](https://pbs.twimg.com/media/EHGcIOkUYAA4rFB.jpg:large) <!-- Add a banner image here -->
 
 ## **About Me**
-- 🌱 Currently learning **Linux Operating System and Networking**.
-- 👯 Looking to collaborate on **working on Data Pipelines (API, ETL), Data Dashboards**.
+- 🌱 Currently learning **Networking and Open Systems**.
+- 👯 Looking to collaborate on **OSI Troubleshooting, Packet Analysis**.
 - 💬 Ask me about **Machine Learning, Databases, Principles of Software Engineering**.
 - 😄 Pronouns: **He/Him**.
-- ⚡ Fun fact: **I'm an aspiring Marvel Rivals Eternity Player**.
+- ⚡ Fun fact: **I like playing Marvel Contest of Champions!**.
 
 ---
 
