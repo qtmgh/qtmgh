@@ -54,6 +54,9 @@
 - This application serves as a dynamic task management system, allowing users to efficiently create, modify, and manage a list of tasks. The interface provides an intuitive menu with options to add, edit, and delete tasks, ensuring seamless organization and real-time updates.
 - Technologies used: CSS. Javascript, Python
 
+### **[Pest Control Site](https://github.com/qtmgh/pest-control-site.git)**
+- This website was developed for Snap Rodent and Pest Control. The design emphasizes clear navigation, effective visual hierarchy, and a layout optimized for quick scanning. Content presents services, pricing, social media links, and direct contact options in a concise format.
+- Technologies used: HTML5, CSS, Javascript
 ---
 
 ## **GitHub Stats**
