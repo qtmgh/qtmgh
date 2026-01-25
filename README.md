@@ -60,6 +60,6 @@
 ---
 
 ## **GitHub Stats**
-![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=qtmgh&theme=cobalt&hide_border=false)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=qtmgh)](https://github.com/qtmgh/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qtmgh&theme=cobalt&show_icons=true&hide_border=false&layout=compact)
