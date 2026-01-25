@@ -1,7 +1,7 @@
 ![Banner](https://pbs.twimg.com/media/EHGcIOkUYAA4rFB.jpg:large) <!-- Add a banner image here -->
 
 ## **About Me**
-- 🌱 Currently learning **Networking and Open Systems**.
+- 🌱 Currently learning **Networking Fundamentals, TCP/IP, OSI Troubleshooting**.
 - 👯 Looking to collaborate on **OSI Troubleshooting, Packet Analysis**.
 - 💬 Ask me about **Machine Learning, Databases, Principles of Software Engineering**.
 - 😄 Pronouns: **He/Him**.
@@ -43,19 +43,27 @@
 
 ## **Projects**
 ### **[FTP/Client Server](https://github.com/qtmgh/FTPServerClient)**
-- This project implements an FTP (File Transfer Protocol) server and an associated FTP client. The FTP server is designed to handle client connections and manage file transfers efficiently, supporting both file uploads and downloads. The FTP client interacts with the server, providing users with an interface to upload and retrieve files.
+- Built a client-server file transfer system using sockets
+- Implemented upload and download handling
+- Learned connection lifecycle, error handling, and protocol flow
 - Technologies used: Python, Javascript
 
 ### **[Phishsentry.AI](https://github.com/SimonLariz/PhishSentry.AI)**
-- This project is a browser extension that uses machine learning to detect phishing websites. It is a free and open-source project that aims to protect users from phishing attacks. The extension currently only supports Google Chrome, but we are working on adding support for other browsers.
+- Browser extension for phishing detection
+- Applied machine learning to URL classification
+- Gained exposure to security workflows and threat detection
 - Technologies used: Python, Javascript, CSS, HTML
 
 ### **[To Do List](https://github.com/qtmgh/To-Do-List-)**
-- This application serves as a dynamic task management system, allowing users to efficiently create, modify, and manage a list of tasks. The interface provides an intuitive menu with options to add, edit, and delete tasks, ensuring seamless organization and real-time updates.
+- CRUD task management application
+- Implemented add, edit, and delete flows
+- Focused on state updates and input validation
 - Technologies used: CSS. Javascript, Python
 
 ### **[Pest Control Site](https://github.com/qtmgh/pest-control-site.git)**
-- This website was developed for Snap Rodent and Pest Control. The design emphasizes clear navigation, effective visual hierarchy, and a layout optimized for quick scanning. Content presents services, pricing, social media links, and direct contact options in a concise format.
+- Delivered a production website for a real client
+- Designed for fast scanning and clear contact flow
+- Implemented responsive layout and structured content
 - Technologies used: HTML5, CSS, Javascript
 ---
 
