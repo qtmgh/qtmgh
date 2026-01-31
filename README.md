@@ -40,6 +40,9 @@
 </p>
 
 
+### **Github Statistics**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtmgh)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ## **Projects**
@@ -67,6 +70,3 @@
 - Implemented responsive layout and structured content
 - Technologies used: HTML5, CSS, Javascript
 ---
-
-## **GitHub Stats**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qtmgh&layout=compact)
