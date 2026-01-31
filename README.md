@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" title="MacOS" style="zoom: 120%;">
 </p>
 
-
 ### **Github Statistics**
 ![](https://raw.githubusercontent.com/qtmgh/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/qtmgh/github-stats/master/generated/languages.svg#gh-dark-mode-only)
