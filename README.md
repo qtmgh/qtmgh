@@ -69,4 +69,4 @@
 ---
 
 
-[![qtmgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtmgh)](https://github.com/anuraghazra/github-readme-stats)
+![qtmgh's GitHub stats](https://github-readme-stats.vercel.app/api?username=qtmgh)
